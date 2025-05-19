@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/chriseborowski/chriseborowski.github.io.git
+	branch = main

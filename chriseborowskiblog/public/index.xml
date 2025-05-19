@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Borowski | Software Developer &#43; Engineer</title>
+    <link>https://chriseborowski.github.io/</link>
+    <description>Recent content on Chris Borowski | Software Developer &#43; Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 May 2025 09:29:21 -0500</lastBuildDate><atom:link href="https://chriseborowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my website</title>
+      <link>https://chriseborowski.github.io/posts/welcome/</link>
+      <pubDate>Mon, 19 May 2025 09:29:21 -0500</pubDate>
+      
+      <guid>https://chriseborowski.github.io/posts/welcome/</guid>
+      
+      <description>&lt;p&gt;This is the first post on this website.&lt;/p&gt;
+&lt;p&gt;I hope you like it.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-python:&#34; data-lang=&#34;python:&#34;&gt;
+new_string = &amp;#34;Welcome to my website&amp;#34;
+print(new_string[::-1])
+&lt;/code&gt;&lt;/pre&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
