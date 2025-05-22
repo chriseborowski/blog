@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/chriseborowski/chriseborowski.github.io.git
 	branch = main
+[submodule "chriseborowskiblog/chriseborowskiblog/themes/hugo-blog-awesome"]
+	path = chriseborowskiblog/chriseborowskiblog/themes/hugo-blog-awesome
+	url = https://github.com/chriseborowski/chriseborowski.github.io.git

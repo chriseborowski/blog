@@ -1,0 +1,4 @@
+baseURL = 'https://chriseborowski.github.io/'
+languageCode = 'en-us'
+title = 'Chris Borowski | Software Developer + Engineer'
+theme = 'hugo-blog-awesome'
